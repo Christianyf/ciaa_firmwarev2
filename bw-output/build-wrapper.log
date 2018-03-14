@@ -1,0 +1,213 @@
+Wed Mar 14 00:06:46 2018: build-wrapper, version 5.1 (linux-x86)
+Wed Mar 14 00:06:46 2018: System name: Linux Nodename: home Release: 4.13.0-36-generic Version: #40~16.04.1-Ubuntu SMP Fri Feb 16 23:26:51 UTC 2018 Machine: i686
+Wed Mar 14 00:06:46 2018: socket path: /tmp/build-wrapper-socket.YPdHmy
+Wed Mar 14 00:06:46 2018: dynamic library found: /home/christian/sonar/build-wrapper-linux-x86/32bits/libinterceptor-i686.so
+Wed Mar 14 00:06:46 2018: command executed as: <build-wrapper-linux-x86-32>
+Wed Mar 14 00:06:46 2018: command line received: <make clean all>
+Wed Mar 14 00:06:46 2018: env 0: <XDG_VTNR=7>
+Wed Mar 14 00:06:46 2018: env 1: <XDG_SESSION_ID=c1>
+Wed Mar 14 00:06:46 2018: env 2: <CLUTTER_IM_MODULE=xim>
+Wed Mar 14 00:06:46 2018: env 3: <XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/christian>
+Wed Mar 14 00:06:46 2018: env 4: <SESSION=ubuntu>
+Wed Mar 14 00:06:46 2018: env 5: <GPG_AGENT_INFO=/home/christian/.gnupg/S.gpg-agent:0:1>
+Wed Mar 14 00:06:46 2018: env 6: <VTE_VERSION=4205>
+Wed Mar 14 00:06:46 2018: env 7: <TERM=xterm-256color>
+Wed Mar 14 00:06:46 2018: env 8: <SHELL=/bin/bash>
+Wed Mar 14 00:06:46 2018: env 9: <XDG_MENU_PREFIX=gnome->
+Wed Mar 14 00:06:46 2018: env 10: <DERBY_HOME=/usr/lib/jvm/java-8-oracle/db>
+Wed Mar 14 00:06:46 2018: env 11: <QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1>
+Wed Mar 14 00:06:46 2018: env 12: <WINDOWID=65011722>
+Wed Mar 14 00:06:46 2018: env 13: <OLDPWD=/home/christian/Escritorio/ciaa_firmwarev2>
+Wed Mar 14 00:06:46 2018: env 14: <UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/937>
+Wed Mar 14 00:06:46 2018: env 15: <GNOME_KEYRING_CONTROL=>
+Wed Mar 14 00:06:46 2018: env 16: <GTK_MODULES=gail:atk-bridge:unity-gtk-module>
+Wed Mar 14 00:06:46 2018: env 17: <USER=christian>
+Wed Mar 14 00:06:46 2018: env 18: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:>
+Wed Mar 14 00:06:46 2018: env 19: <QT_ACCESSIBILITY=1>
+Wed Mar 14 00:06:46 2018: env 20: <XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0>
+Wed Mar 14 00:06:46 2018: env 21: <XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0>
+Wed Mar 14 00:06:46 2018: env 22: <SSH_AUTH_SOCK=/run/user/1000/keyring/ssh>
+Wed Mar 14 00:06:46 2018: env 23: <SESSION_MANAGER=local/home:@/tmp/.ICE-unix/1195,unix/home:/tmp/.ICE-unix/1195>
+Wed Mar 14 00:06:46 2018: env 24: <DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path>
+Wed Mar 14 00:06:46 2018: env 25: <XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg>
+Wed Mar 14 00:06:46 2018: env 26: <PATH=/home/christian/bin:/home/christian/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/christian/sonar/build-wrapper-linux-x86/32bits:/home/christian/sonar/sonar-scanner-3.0.3.778/bin:/home/christian/ciaa-ide/gcc-arm-none-eabi-4_9-2015q1/arm-none-eabi/bin>
+Wed Mar 14 00:06:46 2018: env 27: <DESKTOP_SESSION=ubuntu>
+Wed Mar 14 00:06:46 2018: env 28: <QT_IM_MODULE=ibus>
+Wed Mar 14 00:06:46 2018: env 29: <QT_QPA_PLATFORMTHEME=appmenu-qt5>
+Wed Mar 14 00:06:46 2018: env 30: <XDG_SESSION_TYPE=x11>
+Wed Mar 14 00:06:46 2018: env 31: <JOB=dbus>
+Wed Mar 14 00:06:46 2018: env 32: <PWD=/home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: env 33: <XMODIFIERS=@im=ibus>
+Wed Mar 14 00:06:46 2018: env 34: <JAVA_HOME=/usr/lib/jvm/java-8-oracle>
+Wed Mar 14 00:06:46 2018: env 35: <GNOME_KEYRING_PID=>
+Wed Mar 14 00:06:46 2018: env 36: <LANG=es_AR.UTF-8>
+Wed Mar 14 00:06:46 2018: env 37: <GDM_LANG=es>
+Wed Mar 14 00:06:46 2018: env 38: <MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path>
+Wed Mar 14 00:06:46 2018: env 39: <IM_CONFIG_PHASE=1>
+Wed Mar 14 00:06:46 2018: env 40: <COMPIZ_CONFIG_PROFILE=ubuntu>
+Wed Mar 14 00:06:46 2018: env 41: <GDMSESSION=ubuntu>
+Wed Mar 14 00:06:46 2018: env 42: <SESSIONTYPE=gnome-session>
+Wed Mar 14 00:06:46 2018: env 43: <GTK2_MODULES=overlay-scrollbar>
+Wed Mar 14 00:06:46 2018: env 44: <XDG_SEAT=seat0>
+Wed Mar 14 00:06:46 2018: env 45: <HOME=/home/christian>
+Wed Mar 14 00:06:46 2018: env 46: <SHLVL=1>
+Wed Mar 14 00:06:46 2018: env 47: <LANGUAGE=es_AR:es>
+Wed Mar 14 00:06:46 2018: env 48: <GNOME_DESKTOP_SESSION_ID=this-is-deprecated>
+Wed Mar 14 00:06:46 2018: env 49: <XDG_SESSION_DESKTOP=ubuntu>
+Wed Mar 14 00:06:46 2018: env 50: <LOGNAME=christian>
+Wed Mar 14 00:06:46 2018: env 51: <QT4_IM_MODULE=xim>
+Wed Mar 14 00:06:46 2018: env 52: <XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop>
+Wed Mar 14 00:06:46 2018: env 53: <DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-2TO2Rs7Rcs>
+Wed Mar 14 00:06:46 2018: env 54: <J2SDKDIR=/usr/lib/jvm/java-8-oracle>
+Wed Mar 14 00:06:46 2018: env 55: <LESSOPEN=| /usr/bin/lesspipe %s>
+Wed Mar 14 00:06:46 2018: env 56: <INSTANCE=>
+Wed Mar 14 00:06:46 2018: env 57: <XDG_RUNTIME_DIR=/run/user/1000>
+Wed Mar 14 00:06:46 2018: env 58: <DISPLAY=:0>
+Wed Mar 14 00:06:46 2018: env 59: <XDG_CURRENT_DESKTOP=Unity>
+Wed Mar 14 00:06:46 2018: env 60: <GTK_IM_MODULE=ibus>
+Wed Mar 14 00:06:46 2018: env 61: <J2REDIR=/usr/lib/jvm/java-8-oracle/jre>
+Wed Mar 14 00:06:46 2018: env 62: <LESSCLOSE=/usr/bin/lesspipe %s %s>
+Wed Mar 14 00:06:46 2018: env 63: <XAUTHORITY=/home/christian/.Xauthority>
+Wed Mar 14 00:06:46 2018: env 64: <_=/home/christian/sonar/build-wrapper-linux-x86/32bits/build-wrapper-linux-x86-32>
+Wed Mar 14 00:06:46 2018: executing: <make clean all>
+Wed Mar 14 00:06:46 2018: initializing json file
+Wed Mar 14 00:06:46 2018: process created with pid: 18815
+Wed Mar 14 00:06:46 2018: parent pid: 18814
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </home/christian/sonar/build-wrapper-linux-x86/32bits/build-wrapper-linux-x86-32>
+Wed Mar 14 00:06:46 2018: argv[0]: <build-wrapper-linux-x86-32>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <>
+Wed Mar 14 00:06:46 2018: argv[3]: <make>
+Wed Mar 14 00:06:46 2018: argv[4]: <clean>
+Wed Mar 14 00:06:46 2018: argv[5]: <all>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18815
+Wed Mar 14 00:06:46 2018: process created with pid: 18816
+Wed Mar 14 00:06:46 2018: parent pid: 18815
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </usr/bin/make>
+Wed Mar 14 00:06:46 2018: argv[0]: <make>
+Wed Mar 14 00:06:46 2018: argv[1]: <clean>
+Wed Mar 14 00:06:46 2018: argv[2]: <all>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18816
+Wed Mar 14 00:06:46 2018: process created with pid: 18817
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <echo "Clean project...">
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18817
+Wed Mar 14 00:06:46 2018: process created with pid: 18818
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <echo "">
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18818
+Wed Mar 14 00:06:46 2018: process created with pid: 18819
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <rm -f out/lpc4337_m4/obj/*.*>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18819
+Wed Mar 14 00:06:46 2018: process created with pid: 18820
+Wed Mar 14 00:06:46 2018: parent pid: 18819
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/rm>
+Wed Mar 14 00:06:46 2018: argv[0]: <rm>
+Wed Mar 14 00:06:46 2018: argv[1]: <-f>
+Wed Mar 14 00:06:46 2018: argv[2]: <out/lpc4337_m4/obj/*.*>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18820
+Wed Mar 14 00:06:46 2018: process created with pid: 18821
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <rm -f out/lpc4337_m4/*.*>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18821
+Wed Mar 14 00:06:46 2018: process created with pid: 18822
+Wed Mar 14 00:06:46 2018: parent pid: 18821
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/rm>
+Wed Mar 14 00:06:46 2018: argv[0]: <rm>
+Wed Mar 14 00:06:46 2018: argv[1]: <-f>
+Wed Mar 14 00:06:46 2018: argv[2]: <out/lpc4337_m4/*.*>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18822
+Wed Mar 14 00:06:46 2018: process created with pid: 18823
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <rm -f *.launch>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18823
+Wed Mar 14 00:06:46 2018: process created with pid: 18824
+Wed Mar 14 00:06:46 2018: parent pid: 18823
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/rm>
+Wed Mar 14 00:06:46 2018: argv[0]: <rm>
+Wed Mar 14 00:06:46 2018: argv[1]: <-f>
+Wed Mar 14 00:06:46 2018: argv[2]: <*.launch>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18824
+Wed Mar 14 00:06:46 2018: process created with pid: 18825
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <echo "">
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18825
+Wed Mar 14 00:06:46 2018: process created with pid: 18826
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <echo "Clean complete.">
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18826
+Wed Mar 14 00:06:46 2018: process created with pid: 18827
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <echo "">
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18827
+Wed Mar 14 00:06:46 2018: process created with pid: 18828
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <echo "Build project...">
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18828
+Wed Mar 14 00:06:46 2018: process created with pid: 18829
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <echo "">
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18829
+Wed Mar 14 00:06:46 2018: process created with pid: 18830
+Wed Mar 14 00:06:46 2018: parent pid: 18816
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </usr/bin/make>
+Wed Mar 14 00:06:46 2018: argv[0]: <make>
+Wed Mar 14 00:06:46 2018: argv[1]: <blinky>
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18830
+Wed Mar 14 00:06:46 2018: process created with pid: 18831
+Wed Mar 14 00:06:46 2018: parent pid: 18830
+Wed Mar 14 00:06:46 2018: working directory: </home/christian/Escritorio/ciaa_firmwarev2/firmware_v2>
+Wed Mar 14 00:06:46 2018: executable: </bin/dash>
+Wed Mar 14 00:06:46 2018: argv[0]: </bin/sh>
+Wed Mar 14 00:06:46 2018: argv[1]: <-c>
+Wed Mar 14 00:06:46 2018: argv[2]: <echo "*** compiling C file modules/lpc4337_m4/base/src/cr_startup_lpc43xx.c ***">
+Wed Mar 14 00:06:46 2018: skipping process with pid: 18831
+Wed Mar 14 00:06:46 2018: finalizing json file
+Wed Mar 14 00:06:46 2018: returned with code: 2
